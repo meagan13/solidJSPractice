@@ -2,10 +2,6 @@
 
 Practice repo for learning SolidJS
 
-### Resources
-[Solid Website](https://solidjs.com)
-[Solid Discord Server](https://discord.com/invite/solidjs)
-
 ## Available Scripts
 
 ### `npm dev` or `npm start`
@@ -26,3 +22,8 @@ Your app is ready to be deployed!
 ## Deployment
 
 You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
+
+
+## Resources
+[Solid Website](https://solidjs.com)
+[Solid Discord Server](https://discord.com/invite/solidjs)
